@@ -1,6 +1,9 @@
 # 📊 Customer Churn Prediction & Retention Analytics
 
 An end-to-end Data Science and Machine Learning project that predicts whether a telecom customer is likely to churn and provides retention recommendations.
+## 🌐 Live Demo
+
+👉 [Try the Customer Churn Prediction App][(https://your-app.streamlit.app/)](https://customer-churn-prediction-abhi.streamlit.app/)
 
 ## 🎯 Business Problem
 
